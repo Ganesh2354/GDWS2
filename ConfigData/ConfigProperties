@@ -1,0 +1,4 @@
+Login_Page=parent
+Email=//input[@name='email']
+Password=//input[@name='pass']
+LoginBtn=//button[@name='login']
